@@ -1,4 +1,4 @@
-﻿string name = "Oleg", surname = "Kyrylchuk", test = "5";
+﻿string name = "maxiel", surname = "dev", test = "5";
 
 string jsonString = 
     $$"""
